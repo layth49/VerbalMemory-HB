@@ -22,7 +22,7 @@
 
 [![Product Name Video][product-video]][repo-url]
 
-This project is made to cheat at the [Verbal Memory Test on HumanBenchmark.com][verbalMemory-hb] using Selenium to get the word displayed on the HTML and adds it to a list. If the word is already there, press <b>SEEN</b>; if not, press <b>NEW</b> and add it to the list.
+This project is made to cheat at the [Verbal Memory Test on HumanBenchmark.com][verbalMemory-hb] using Selenium to get the word displayed on the HTML and adds it to a list. If the word is already there, press <b>SEEN</b>; if not, press <b>NEW</b> and add it to the list. This can go on forever (tested: 5000+).
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
