@@ -56,7 +56,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-[product-video]: assets/showcase.mp4
+[product-video]: assets/showcase.gif
 
 <!-- Product images and URLs -->
 [CSharp]: https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&color=512BD4
